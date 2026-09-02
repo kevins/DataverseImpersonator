@@ -1,0 +1,1 @@
+javascript:(()=>{if(!/(^|\.)dynamics\.com$/i.test(location.hostname)){alert('Open a Dataverse model-driven app first.');return;}const u='dataverseimpersonator:open?url='+encodeURIComponent(location.href);const a=document.createElement('a');a.href=u;a.style.display='none';document.body.appendChild(a);a.click();a.remove()})()
