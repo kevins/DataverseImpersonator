@@ -2,6 +2,8 @@
 
 A Windows PowerShell/WebView2 utility for testing a Dataverse model-driven app under another user's Dataverse security context.
 
+<img width="975" height="597" alt="image" src="https://github.com/user-attachments/assets/668e69c8-8001-46e5-adb2-974706144d91" />
+
 ## Read this first
 
 There are **three PowerShell files**, and each has a different job:
